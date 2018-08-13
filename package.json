@@ -1,0 +1,36 @@
+{
+  "name": "react-redux-ts-template",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "dependencies": {
+    "connected-react-router": "4.x.x",
+    "history": "4.x.x",
+    "react": "16.x.x",
+    "react-dom": "16.x.x",
+    "react-redux": "5.x.x",
+    "react-router": "4.x.x",
+    "react-router-redux": "4.x.x",
+    "redux": "4.x.x",
+    "redux-pack": "0.1.x",
+    "redux-persist": "5.x.x",
+    "redux-thunk": "2.x.x"
+  },
+  "devDependencies": {
+    "@types/history": "4.x.x",
+    "@types/jest": "23.x.x",
+    "@types/node": "10.x.x",
+    "@types/react": "16.x.x",
+    "@types/react-dom": "16.x.x",
+    "@types/react-redux": "5.x.x",
+    "@types/react-router-redux": "5.x.x",
+    "@types/redux-pack": "0.1.x",
+    "react-scripts-ts": "2.x.x",
+    "typescript": "2.x.x"
+  }
+}
